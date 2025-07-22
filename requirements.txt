@@ -18,7 +18,6 @@ onnxruntime-silicon==1.16.3; sys_platform == 'darwin' and platform_machine == 'a
 onnxruntime-gpu==1.22.0; sys_platform != 'darwin'
 
 
-
 ## Core libraries or packages
 #numpy==2.3.1 or #numpy<2.0
 numpy<3.0
@@ -33,7 +32,6 @@ regex
 pyvirtualcam
 
 
-
 ## InsightFace and Image augmentation
 insightface==0.7.3
 albucore==0.0.24
@@ -45,7 +43,6 @@ albumentations==2.0.8 #Optional: use this if you encounter compatibility issues 
 # OR
 #albucore==0.0.30
 #albumentations==1.4.4 #Optional: use this if you encounter compatibility issues with albucore
-
 
 
 ## Web UI and API
