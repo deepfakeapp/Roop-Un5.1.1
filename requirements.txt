@@ -36,8 +36,11 @@ pyvirtualcam
 
 # InsightFace and Image augmentation
 insightface==0.7.3
+
 #albucore==0.0.16 ## working
-albucore==0.0.24 
+#albucore==0.0.30
+# OR
+albucore==0.0.24
 albumentations==2.0.8 # or 1.4.4 Optional: use this if you encounter compatibility issues with albucore
 
 
