@@ -34,7 +34,7 @@ pyvirtualcam
 
 
 
-# InsightFace and Image augmentation
+## InsightFace and Image augmentation
 insightface==0.7.3
 
 #albucore==0.0.16 ## working
@@ -49,7 +49,7 @@ albumentations==2.0.8 #Optional: use this if you encounter compatibility issues 
 
 
 
-# Web UI and API
+## Web UI and API
 gradio==5.38.0
 fastapi==0.116.1
 pydantic==2.11.7
