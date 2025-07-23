@@ -1,8 +1,8 @@
-## DOWNLOAD
+## DOWNLOAD 
 
 # Roop-Un5.1.1 - This project has been discontinued
 
-[Disclaimer](#Disclaimer) • [Usage](#usage) • [Google-Colab](#Google-Colab)
+[Disclaimer](#Disclaimer) • [Terms](#Terms) • [Usage](#usage) • [Google-Colab](#Google-Colab)
 
 
 images and videos without training and an easy-to-use GUI.
@@ -19,7 +19,7 @@ images and videos without training and an easy-to-use GUI.
 - Masking of face occluders using text prompts or automatically
 - Optional Face Upscaler/Restoration using different enhancers
 - Preview swapping from different video frames
-- Live FakCam using your webcam
+- Live Fake Cam using your webcam
 - Extras Tab for cutting videos etc.
 - Settings - storing configuration for next session
 - Theme Support
@@ -28,12 +28,47 @@ images and videos without training and an easy-to-use GUI.
 ### Disclaimer
 
 
-This project is for technical and academic use only. Use This Code for Ai Deep learning and Ai Coding i.e just to learn How Ai Works?. Users of this software are expected to use this software responsibly while abiding the local law. If a face of a real person is being used, users are suggested to get consent from the concerned person whom real face is being used in the videos or photos and clearly mention that it is a Ai Generated photo or video and do not use this software to create deepfakes. Developers of this software will not be responsible for actions of end-users. Please do not apply it to illegal and unethical scenarios. do not use this software for illigal purpose.
+This project is for technical and academic use only. Use This Code for Ai Deep learning and Ai Coding i.e just to learn How Ai Works?. Users of this software are expected to use this software responsibly while abiding the local law. If a face of a real person is being used, users are suggested to get consent from the concerned person whom real face is being used in the videos or photos and clearly mention that it is a Ai Generated photo or video and do not use this software to create deepfakes. Use of this tool to create non-consensual, defamatory, political, celebrity, or pornographic content is strictly prohibited and illegal under local or international laws. The developers are not responsible for misuse. Developers of this software will not be responsible for actions of end-users. Please do not apply it to illegal and unethical scenarios. do not use this software for illigal purpose.
 
-**Only for Technical, Academic and Learning Purpose Use**
+**This Tool is intended for Technical, Academic, Educational, Ethical, Research and Learning Purpose Use only.**
 
-In the event of violation of the legal and ethical requirements of the user's country or region, this code repository is exempt from liability
+In the event of violation of the legal and ethical requirements of the user's country or region, this code repository is exempt from liability.
 
+
+### Terms
+
+By using this tool, you acknowledge and agree to the following:
+    
+You have obtained explicit, informed consent from any individuals depicted in any media you upload.
+You will not use this tool to create or distribute content that is:
+
+1. Non-consensual
+2. Sexually explicit or pornographic
+3. Defamatory, harassing, or invasive of privacy
+4. Politically manipulative or misleading
+5. Impersonating public figures or private individuals
+
+You are solely responsible for all content you generate or distribute using this tool.
+The developers, maintainers, and providers of this application do not assume any liability for misuse or consequences arising from content generated using this tool.
+Misuse of AI-generated media may violate local, national, or international laws. You are responsible for complying with all applicable regulations in your jurisdiction. Violators may face civil or criminal penalties.
+
+This software must NOT be used from or within countries with strict regulations on synthetic or manipulated media, including but not limited to:
+
+- 🇺🇸 United States
+- 🇬🇧 United Kingdom
+- 🇮🇳 India
+- 🇦🇪 United Arab Emirates
+- 🇨🇳 China
+- 🇰🇷 South Korea
+- 🇦🇺 Australia
+- 🇩🇪 Germany
+- 🇫🇷 France
+- 🇸🇬 Singapore
+- 🇯🇵 Japan
+- 🇨🇦 Canada
+
+IF YOU DO NOT FULLY AGREE WITH THESE TERMS, DO NOT USE THIS AI TOOL & APP.
+  
 ### Usage
 
 - Windows: run the `windows_run.bat` from the Installer.
