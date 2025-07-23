@@ -38,7 +38,7 @@ In the event of violation of the legal and ethical requirements of the user's co
 
 - Windows: run the `windows_run.bat` from the Installer.
 - Linux: `python run.py`
-- Dockerfile - `docker build -t roop-unleashed .`
+
 
 ### Google-Colab
 
