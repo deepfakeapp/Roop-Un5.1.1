@@ -1,2 +1,2 @@
-name = 'roop unleashed'
-version = '4.4.1'
+name = 'Roop-DeepFakeApp'
+version = '5.1.1'
